@@ -7,7 +7,7 @@
 <br/>
 
 ### Current projects:
-I don't have any public projects at this moment. I'm sorry 😓
+[![Minetopia](https://github-readme-stats.vercel.app/api/pin/?username=CheesyDevs&repo=Minetopia&show_owner=true)](https://github.com/CheesyDevs/Minetopia)
 
 <br/>
 
