@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi, I'm MyMemories [<img align="right" width="135" height="80" src="https://i.imgur.com/73nwJjR.png">](#)
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi, I'm GameHugo [<img align="right" width="135" height="80" src="https://i.imgur.com/73nwJjR.png">](#)
 
 ## Socials:
 ### [<img width=25 height=26 src="https://i.imgur.com/JNehGFH.png">](#) Discord: `⛄GameHugo_⛄#6006`
@@ -16,7 +16,7 @@
 [![Minetopia](https://github-readme-stats.vercel.app/api/pin/?username=CheesyDevs&repo=Minetopia&show_owner=true&&theme=radical)](https://github.com/CheesyDevs/Minetopia)
 
 ## GitHub Stats:
-[![MyMemories GitHub stats](https://github-readme-stats.vercel.app/api?username=MyMemoriesLIVE&show_icons=true&theme=radical)](#)
+[![MyMemories GitHub stats](https://github-readme-stats.vercel.app/api?username=GameHugo&show_icons=true&theme=radical)](#)
 
 [java]: https://www.java.com/
 [html]: #
