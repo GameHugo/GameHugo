@@ -17,7 +17,8 @@
 
 ## Current projects:
 [![Minetopia](https://github-readme-stats.vercel.app/api/pin/?username=CheesyDevs&repo=Minetopia&show_owner=true&&theme=radical)](https://github.com/CheesyDevs/Minetopia)
-[![Shows](https://github-readme-stats.vercel.app/api/pin/?username=GameHugo&repo=Shows&show_owner=true&&theme=radical)](https://github.com/GameHugo/Shows)
+[![RealFireworks](https://github-readme-stats.vercel.app/api/pin/?username=GameHugo&repo=RealFireworks&show_owner=true&&theme=radical)](https://github.com/GameHugo/RealFireworks)
+<!--[![Shows](https://github-readme-stats.vercel.app/api/pin/?username=GameHugo&repo=Shows&show_owner=true&&theme=radical)](https://github.com/GameHugo/Shows)-->
 
 ## GitHub Stats:
 [![MyMemories GitHub stats](https://github-readme-stats.vercel.app/api?username=GameHugo&show_icons=true&theme=radical)](#)
