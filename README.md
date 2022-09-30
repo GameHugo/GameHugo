@@ -16,7 +16,6 @@
 [<img width="50" src="https://i.imgur.com/YUJERag.png">][webstorm]
 
 ## Current projects:
-[![Minetopia](https://github-readme-stats.vercel.app/api/pin/?username=CheesyDevs&repo=Minetopia&show_owner=true&&theme=radical)](https://github.com/CheesyDevs/Minetopia)
 [![RealFireworks](https://github-readme-stats.vercel.app/api/pin/?username=GameHugo&repo=RealFireworks&show_owner=true&&theme=radical)](https://github.com/GameHugo/RealFireworks)
 <!--[![Shows](https://github-readme-stats.vercel.app/api/pin/?username=GameHugo&repo=Shows&show_owner=true&&theme=radical)](https://github.com/GameHugo/Shows)-->
 
