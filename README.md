@@ -1,4 +1,4 @@
-# <img width=30 src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">Hi, I'm GameHugo [<img align="right" width="135" height="80" src="https://i.imgur.com/73nwJjR.png">](#)
+# Hi, I'm GameHugo [<img align="right" width="135" height="80" src="https://i.imgur.com/73nwJjR.png">](#)
 
 ## Socials:
 ### [<img width=20 height=21 src="https://i.imgur.com/JNehGFH.png">](#) Discord: `gamehugo_`
